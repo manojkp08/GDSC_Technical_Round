@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158318494040",
+    "project_id": "gdsc-technical-round",
+    "storage_bucket": "gdsc-technical-round.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158318494040:android:252bac9ca8906a971d652d",
+        "android_client_info": {
+          "package_name": "gdsc.technical_round"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgSvIykbAy9zJAVwfThbKI035f_fwZVhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
